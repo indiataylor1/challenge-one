@@ -25,7 +25,7 @@ THEN I find a concise, descriptive title
 
 ## Link to Deployed Action
 
-<must go here>
+https://indiataylor1.github.io/challenge-one/
   
 ## Screenshot
 ![challenge-uno-screenshot](https://user-images.githubusercontent.com/116799866/200796394-ed27e451-b58e-4cc3-9be6-2dbf4bace4d6.png)
